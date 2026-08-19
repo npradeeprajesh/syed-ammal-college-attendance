@@ -1,0 +1,1 @@
+Open the CollegeAttendance folder in Android Studio. Android Studio will create/use the Gradle environment. Then Sync Project with Gradle Files and Run.
